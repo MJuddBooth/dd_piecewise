@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='dd_piecewise',
+    name='dd-piecewise',
     version='0.1',
     description='Piecewise linear regression',
     url='http://github.com/datadog/piecewise',
