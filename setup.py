@@ -1,14 +1,14 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='piecewise',
+    name='dd_piecewise',
     version='0.1',
     description='Piecewise linear regression',
     url='http://github.com/datadog/piecewise',
     author='Stephen Kappel',
     author_email='stephen@datadoghq.com',
     license='BSD-3-Clause',
-    packages=['piecewise'],
+    packages=['dd_piecewise'],
     install_requires=[
         'numpy>=1.10.0'
     ],
